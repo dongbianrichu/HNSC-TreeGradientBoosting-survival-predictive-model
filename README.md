@@ -22,6 +22,7 @@ The format of X_test for predict.py is as follows:
 
 
 
+
 ✔ NOTE:
 
 The input data needs to be preprocessed by MinmaxScaler，namely the MinMaxScaler method from sklearn.preprocessing.
